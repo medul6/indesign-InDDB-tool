@@ -3,7 +3,7 @@ InDesign Document Database (InDDB) Tool
 
 Description
 -------
-This is an AppleScript for manipulation of objects in all open documents at once.
+This is an AppleScript for manipulation of objects in all open documents at once utilising UUID's.
 We (the studio I work in) need this script because we do language localisation of print catalogues/broschures.
 Our workflow is the following:
 We start out by having an basic version of a broschure (usually the german one, where the layout if finalised in) and after "finishing" it 
